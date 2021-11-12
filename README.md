@@ -1,3 +1,4 @@
 # hello-world
 My first repository
-Testing out the first Branch
+This is a test for the first branch
+Go Avalanche!
